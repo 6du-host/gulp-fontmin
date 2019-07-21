@@ -1,5 +1,5 @@
 {
-  "name": "gulp-fontmin",
+  "name": "gulp-fontmin-woff2",
   "version": "0.7.6",
   "description": "Gulp plugin for minify TTF font to SVG, EOT, WOFF",
   "license": "MIT",
